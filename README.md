@@ -10,6 +10,8 @@
 
 这个是我将大佬的代码移植在***stm32f103zet6***上面，并且使用**游戏手柄**操作（**没做其他按钮功能**）
 
+这里用的是**正点原子**的手柄代码，板子是**正点原子战舰**
+
 下面是大佬b站视频，这里感谢它开源代码 **Thanks♪(･ω･)ﾉ**
 
 [https://www.bilibili.com/video/BV1fJ41167ro/?spm_id_from=333.337.search-card.all.click&vd_source=ff4ac26f1c3b9f809e8a2e4e4c48a3b2]
