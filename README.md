@@ -12,6 +12,10 @@
 
 这里用的是**正点原子**的手柄代码，板子是**正点原子战舰**
 
+下面是我的b站视频：
+
+[https://www.bilibili.com/video/BV1QeK3znEZB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=ff4ac26f1c3b9f809e8a2e4e4c48a3b2]
+
 下面是大佬b站视频，这里感谢它开源代码 **Thanks♪(･ω･)ﾉ**
 
 [https://www.bilibili.com/video/BV1fJ41167ro/?spm_id_from=333.337.search-card.all.click&vd_source=ff4ac26f1c3b9f809e8a2e4e4c48a3b2]
